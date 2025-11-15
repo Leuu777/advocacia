@@ -1,0 +1,24 @@
+[00:00:02.090] Server  LOG     
+[00:00:02.090] Server  LOG        We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+[00:00:02.091] Server  LOG        The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+[00:00:02.092] Server  LOG        	- include was updated to add '.next/dev/types/**/*.ts'
+[00:00:02.092] Server  LOG     
+[00:00:02.092] Server  LOG        The following mandatory changes were made to your tsconfig.json:
+
+[00:00:02.093] Server  LOG        	- jsx was set to react-jsx (next.js uses the React automatic runtime)
+[00:00:02.093] Server  LOG     
+[00:00:02.629] Server  LOG      ✓ Ready in 1758ms
+[00:00:19.173] Server  LOG      ○ Compiling / ...
+[00:00:23.103] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:23.103] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:23.103] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/?id=7249dceb-c4d3-4a34-8614-ae970c8e294f&vscodeBrowserReqId=1763221001655 color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/?id=7249dceb-c4d3-4a34-8614-ae970c8e294f&vscodeBrowserReqId=1763221001655","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763221008559}
+[00:00:29.371] Browser WARN    Image with src "/professional-office-environment-with-lawyers.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:00:29.371] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:29.371] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:29.371] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/?id=46836159-d8a9-45e0-bde7-abb009b786ee&vscodeBrowserReqId=1763221014236 color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/?id=46836159-d8a9-45e0-bde7-abb009b786ee&vscodeBrowserReqId=1763221014236","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763221014834}
+[00:00:55.081] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/areas color: rgb(120, 120, 120) color: inherit {"dp":"/areas","o":"http://localhost:3000/areas","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763221040541}
+[00:00:55.981] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/servicos color: rgb(120, 120, 120) color: inherit {"dp":"/servicos","o":"http://localhost:3000/servicos","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763221041432}
+[00:01:02.296] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/blog color: rgb(120, 120, 120) color: inherit {"dp":"/blog","o":"http://localhost:3000/blog","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763221047745}
+[00:01:19.608] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763221065058}
